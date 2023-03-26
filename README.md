@@ -7,16 +7,16 @@
 Instructions on how to install your project.
 
 1. First, clone the repository
-2. run code
+2. run code (main.py)
 3. Play game
 
 
 
 ## Reference
 
-Python Lists [click me👉](https://developers.google.com/edu/python/lists#for-and-in).
-Play the game online [click me👉](https://hangmanwordgame.com/?fca=1&success=0#/).
-All about game [click me👉](https://en.wikipedia.org/wiki/Hangman_(game)#Derivations).
+Python Lists [click me👉](https://developers.google.com/edu/python/lists#for-and-in).<br/>
+Play the game online [click me👉](https://hangmanwordgame.com/?fca=1&success=0#/).<br/>
+All about game [click me👉](https://en.wikipedia.org/wiki/Hangman_(game)#Derivations).<br/>
 Taag [click me👉](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Vishal).).
 
 
